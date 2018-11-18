@@ -1,0 +1,1090 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4a25531-2754-411b-99ba-4a84572d5ab4" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.classpath" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/手机安全卫士.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.project" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/address.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/antivirus.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/china_Province_city.db" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/AndroidManifest.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/aidl/android/content/pm/IPackageDataObserver.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/aidl/android/content/pm/IPackageStatsObserver.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/aidl/android/content/pm/PackageStats.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/aidl/android/telephony/NeighboringCellInfo.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/aidl/com/android/internal/telephony/ITelephony.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes.dex" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageDataObserver$Stub$Proxy.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageDataObserver$Stub.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageDataObserver.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageDataObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageStatsObserver$Stub$Proxy.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageStatsObserver$Stub.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageStatsObserver.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/IPackageStatsObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/content/pm/PackageStats.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/android/telephony/NeighboringCellInfo.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/App.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/BuildConfig.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/HomeActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/HomeActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/HomeActivity$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/HomeActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$anim.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$attr.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$color.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$dimen.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$drawable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$id.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$layout.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$menu.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$raw.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$string.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$style.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$styleable.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R$xml.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/R.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/SplashActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/SplashActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/adapter/HomeAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/entity/VersionEntity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/DownLoadUtils$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/DownLoadUtils$MyCallBack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/DownLoadUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/MyUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/VersionUpdateUtils$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/VersionUpdateUtils$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/VersionUpdateUtils$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/VersionUpdateUtils$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter01/utils/VersionUpdateUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/BaseSetUpActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/BaseSetUpActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/ContactSelectActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/ContactSelectActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/ContactSelectActivity$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/ContactSelectActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/LostFindActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/LostFindActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/SetUp1Activity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/SetUp2Activity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/SetUp3Activity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/SetUp4Activity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/SetUp4Activity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/adapter/ContactAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/adapter/ContactAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/dialog/InterPasswordDialog$MyCallBack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/dialog/InterPasswordDialog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/dialog/SetUpPasswordDialog$MyCallBack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/dialog/SetUpPasswordDialog.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/entity/ContactInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/receiver/BootCompleteReciever.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/receiver/MyDeviceAdminReciever.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/receiver/SmsLostFindReciver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/service/GPSLocationService$MyListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/service/GPSLocationService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/utils/ContactInfoParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter02/utils/MD5Utils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/AddBlackNumberActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/ContactSelectActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/ContactSelectActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/ContactSelectActivity$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/ContactSelectActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/SecurityPhoneActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/SecurityPhoneActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/SecurityPhoneActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/adapter/BlackContactAdapter$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/adapter/BlackContactAdapter$BlackConactCallBack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/adapter/BlackContactAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/adapter/BlackContactAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/adapter/ContactAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/adapter/ContactAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/db/BlackNumberOpenHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/db/dao/BlackNumberDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/entity/BlackContactInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/entity/ContactInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/reciever/InterceptCallReciever$CallLogObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/reciever/InterceptCallReciever.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/reciever/InterceptSmsReciever.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/test/TestBlackNumberDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter03/utils/ContactInfoParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity$2$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity$UninstallRececiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/AppManagerActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/adapter/AppManagerAdapter$MyClickListener.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/adapter/AppManagerAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/adapter/AppManagerAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/entity/AppInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/utils/AppInfoParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/utils/DensityUtil.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter04/utils/EngineUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/VirusScanActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/VirusScanActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/VirusScanSpeedActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/VirusScanSpeedActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/VirusScanSpeedActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/adapter/ScanVirusAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/adapter/ScanVirusAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/dao/AntiVirusDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/entity/ScanAppInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter05/utils/MD5Utils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CacheClearListActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CacheClearListActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CacheClearListActivity$MyPackObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CacheClearListActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CleanCacheActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CleanCacheActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CleanCacheActivity$ClearCacheObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/CleanCacheActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/adapter/CacheCleanAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/adapter/CacheCleanAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter06/entity/CacheInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/ProcessManagerActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/ProcessManagerActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/ProcessManagerActivity$3$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/ProcessManagerActivity$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/ProcessManagerActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/ProcessManagerSettingActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/adapter/ProcessManagerAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/adapter/ProcessManagerAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/entity/TaskInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/service/AutoKillProcessService$ScreenLockReceiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/service/AutoKillProcessService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/utils/SystemInfoUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter07/utils/TaskInfoParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/OperatorSetActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/TrafficMonitoringActivity$CorrectFlowReceiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/TrafficMonitoringActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/db/TrafficOpenHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/db/dao/TrafficDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/reciever/BootCompleteReciever.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/service/TrafficMonitoringService$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/service/TrafficMonitoringService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter08/utils/SystemInfoUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/AdvancedToolsActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/AppLockActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/AppLockActivity$MyAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/AppLockActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/EnterPswActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment$4$1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment$4$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment$4$1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment$4$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment$4.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/NumBelongtoActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/NumBelongtoActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/NumBelongtoActivity$3.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/NumBelongtoActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSBackupActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSBackupActivity$2$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSBackupActivity$2.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSBackupActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSReducitionActivity$1$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSReducitionActivity$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/SMSReducitionActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/adapter/AppLockAdapter$ViewHolder.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/adapter/AppLockAdapter.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/db/AppLockOpenHelper.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/db/dao/AppLockDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/db/dao/NumBelongtoDao.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/entity/AppInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/entity/SmsInfo.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/service/AppLockService$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/service/AppLockService$AppLockReceiver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/service/AppLockService$MyObserver.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/service/AppLockService.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/AppInfoParser.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/Crypto.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/DensityUtil.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/SmsBackUpUtils$BackupStatusCallback.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/SmsBackUpUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/SmsReducitionUtils$SmsReducitionCallBack.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/SmsReducitionUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/UIUtils$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/utils/UIUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/widget/AdvancedToolsView.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter09/widget/MyCircleProgress.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter10/SettingsActivity.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter10/utils/SystemInfoUtils.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter10/widget/SettingView$1.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter10/widget/SettingView$OnCheckedStatusIsChanged.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/cn/itcast/mobliesafe/chapter10/widget/SettingView.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/com/android/internal/telephony/ITelephony$Stub$Proxy.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/com/android/internal/telephony/ITelephony$Stub.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/com/android/internal/telephony/ITelephony.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/classes/com/android/internal/telephony/ITelephony.class" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dexedLibs/RootTools-3d709ef8b02bb9e4878ad79cd77530e5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dexedLibs/android-support-v4-2f7a63b89d62400a030a84d2cce262a5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/dexedLibs/xUtils-2.5.5-7b5cf4309fc80b5f6ab10858da523516.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/jarlist.cache" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add_blackname_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add_blackname_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add_fromcontact_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/add_fromcontact_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/alarm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/app.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/applock_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/appunlock_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/arrow_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/atools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/back.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/bg_home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/blue_right_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/brightpurple_checkbox_c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/brightpurple_contact_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/broom_center.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/broom_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/broom_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/btn_search_numbelongto_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/btn_search_numbelongto_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/cacheclean_trashbin_close_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/cacheclean_trashbin_open_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/cachescan_righticon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/callmsgsafe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/cancle_scan_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/cancle_scan_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/checkbox_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/clean_all_e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/clean_all_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/clean_all_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/clean_process_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/clean_process_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/cleancache_finish.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/coner_white_rec.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/contact_et_left_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/contact_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/contacticon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/correction_flow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/correction_flow_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/delete.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/delete_data.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/delete_data_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/delete_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/deleteicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/enterpsw_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/finish_cleancache_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/finish_cleancache_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/go_greenicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/gprs_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/green_checkbox_c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/green_troggle_c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/inverse_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/inverse_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/location_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/location_icon_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/lock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/lock_screen_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/lock_screen_icon_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/lockscreen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/netmanager.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/no_blacknumbericon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/numbelongto_et_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/numbelongtoicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/numofbelongto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/operator_finish_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/operator_finish_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/operator_set_info_incon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/operator_spinner_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/phoneicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/processmanager_setting_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/processmanager_showsysapps.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/processmanagerlockscreen_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/programoflock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/purplecircle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/quickscan_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/recomand_icon.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/restart_scan_btn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/right_arrows_red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/rightarrow_blue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/safe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/scan_complete.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/scanning_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/security_phone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/select_all_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/select_all_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/settingicon_white_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/settingicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/settings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/shareicon_white_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/shareicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sim_alarm_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sim_alarm_icon_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sim_bind_e.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sim_bind_n.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sim_bind_p.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/slide_view.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/slide_view_green.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sms_backup.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sms_reduction.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/smsbackup_buuton_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/superman.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/switch_btn_off.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/swtch_btn_on.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/sysoptimize.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/taskmanager.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/toggle_btn_blue_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/traffic_green.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/traffic_red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/trojan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/virusscan_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/wifi_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-hdpi/wipedata.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-mdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-xhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/res/drawable-xxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/resources.ap_" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/bin/手机安全卫士.apk" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gen/android/content/pm/IPackageDataObserver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gen/android/content/pm/IPackageStatsObserver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gen/cn/itcast/mobliesafe/BuildConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gen/cn/itcast/mobliesafe/Manifest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gen/cn/itcast/mobliesafe/R.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/gen/com/android/internal/telephony/ITelephony.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/ic_launcher-web.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/RootTools.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/android-support-v4.jar.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/libs/xUtils-2.5.5.jar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/proguard-project.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/broom_animation.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/cacheclean_trash_bin_animation.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/cycle_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/next_in.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/next_out.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/pre_in.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/pre_out.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/anim/shake.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add_blackname_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add_blackname_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add_fromcontact_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/add_fromcontact_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/alarm.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/app.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/applock_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/appunlock_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/arrow_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/atools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/back.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/bg_home.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/blue_right_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/brightpurple_checkbox_c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/brightpurple_contact_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/broom_center.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/broom_left.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/broom_right.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/btn_search_numbelongto_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/btn_search_numbelongto_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/cacheclean_trashbin_close_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/cacheclean_trashbin_open_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/cachescan_righticon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/callmsgsafe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/cancle_scan_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/cancle_scan_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/checkbox_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clean_all_e.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clean_all_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clean_all_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clean_process_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/clean_process_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/cleancache_finish.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/coner_white_rec.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/contact_et_left_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/contact_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/contacticon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/correction_flow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/correction_flow_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/delete.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/delete_data.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/delete_data_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/delete_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/deleteicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/edit_normal.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/enterpsw_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/finish_cleancache_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/finish_cleancache_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/go_greenicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/gprs_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/green_checkbox_c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/green_troggle_c.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/inverse_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/inverse_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/launch_bg.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/location_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/location_icon_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/lock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/lock_screen_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/lock_screen_icon_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/lockscreen.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/netmanager.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/no_blacknumbericon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/numbelongto_et_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/numbelongtoicon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/numofbelongto.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/operator_finish_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/operator_finish_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/operator_set_info_incon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/operator_spinner_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/phoneicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/processmanager_setting_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/processmanager_showsysapps.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/processmanagerlockscreen_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/programoflock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/purplecircle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/quickscan_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/recomand_icon.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/restart_scan_btn.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/right_arrows_red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/rightarrow_blue.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/safe.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/scan_complete.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/scanning_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/security_phone.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/security_phone_setup1.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/select_all_btn_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/select_all_btn_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/set_safephone_icon.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/settingicon_white_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/settingicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/settings.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/setup_setting_complete.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/shareicon_white_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/shareicon_yellow_n.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sim_alarm_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sim_alarm_icon_small.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sim_bind_e.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sim_bind_n.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sim_bind_p.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sim_setup.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/slide_view.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/slide_view_green.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sms_backup.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sms_reduction.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/smsbackup_button_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/superman.9.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/switch_btn_off.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/swtch_btn_on.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/sysoptimize.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/taskmanager.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/toggle_btn_blue_p.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/traffic_green.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/traffic_red.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/trojan.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/virusscan_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/wifi_icon.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-hdpi/wipedata.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/add_blacknumber_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/add_btn_selector_securityphone.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/add_fromcontact_btn_selector_securityphone.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/btn_numaddressbg_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/cancle_scan_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/checkbox_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/circle_purple.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/circle_purple_bg_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/circle_white.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/cleancache_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/cleanprocess_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/coner_bg_white.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/correction_flow_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/finish_cleancache_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/green_checkbox_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/inverse_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/operator_finish_bg_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/round_purple_tv_bg.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/select_all_btn_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/sim_bind_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/toggle_btn_bg_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/toggle_btn_blue_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/toggle_btn_green_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/traffic_green_bg.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/drawable/traffic_reminder_selector.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_add_blacknumber.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_advancetools.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_app_manager.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_applock.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_cacheclearlist.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_cleancache.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_contact_select.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_enterpsw.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_home.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_lostfind.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_numbelongto.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_operatorset.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_processmanager.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_processmanagersetting.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_reducition.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_securityphone.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_settings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_setup1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_setup2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_setup3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_setup4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_smsbackup.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_splash.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_trafficmonitoring.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_virusscan.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/activity_virusscanspeed.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_applock.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/fragment_appunlock.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/inter_password_dialog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_appmanager_list.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_cacheclean_list.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_home.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_list_applock.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_list_blackcontact.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_list_contact_select.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_list_trafficranking.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_processmanager_list.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/item_spinner_operatorset.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/setup_password_dialog.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/setup_radiogroup.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/titlebar.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/ui_advancedtools_view.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/layout/ui_settings_view.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/menu/main.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/raw/ylzs.mp3" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/values-w820dp/dimens.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/values/attrs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/values/color.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/values/styles.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/res/xml/device_admin_sample.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/android/content/pm/IPackageDataObserver.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/android/content/pm/IPackageStatsObserver.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/android/content/pm/PackageStats.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/android/telephony/NeighboringCellInfo.aidl" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/App.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/HomeActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter01/SplashActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter01/adapter/HomeAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter01/entity/VersionEntity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter01/utils/DownLoadUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter01/utils/MyUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter01/utils/VersionUpdateUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/BaseSetUpActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/ContactSelectActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/LostFindActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/SetUp1Activity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/SetUp2Activity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/SetUp3Activity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/SetUp4Activity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/adapter/ContactAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/dialog/InterPasswordDialog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/dialog/SetUpPasswordDialog.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/entity/ContactInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/receiver/BootCompleteReciever.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/receiver/MyDeviceAdminReciever.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/receiver/SmsLostFindReciver.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/service/GPSLocationService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/utils/ContactInfoParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter02/utils/MD5Utils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/AddBlackNumberActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/ContactSelectActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/SecurityPhoneActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/adapter/BlackContactAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/adapter/ContactAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/db/BlackNumberOpenHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/db/dao/BlackNumberDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/entity/BlackContactInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/entity/ContactInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/reciever/InterceptCallReciever.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/reciever/InterceptSmsReciever.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/test/TestBlackNumberDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter03/utils/ContactInfoParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter04/AppManagerActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter04/adapter/AppManagerAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter04/entity/AppInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter04/utils/AppInfoParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter04/utils/DensityUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter04/utils/EngineUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter05/VirusScanActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter05/VirusScanSpeedActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter05/adapter/ScanVirusAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter05/dao/AntiVirusDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter05/entity/ScanAppInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter05/utils/MD5Utils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter06/CacheClearListActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter06/CleanCacheActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter06/adapter/CacheCleanAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter06/entity/CacheInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/ProcessManagerActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/ProcessManagerSettingActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/adapter/ProcessManagerAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/entity/TaskInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/service/AutoKillProcessService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/utils/SystemInfoUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter07/utils/TaskInfoParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/OperatorSetActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/TrafficMonitoringActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/db/TrafficOpenHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/db/dao/TrafficDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/reciever/BootCompleteReciever.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/service/TrafficMonitoringService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter08/utils/SystemInfoUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/AdvancedToolsActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/AppLockActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/EnterPswActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/Fragment/AppLockFragment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/Fragment/AppUnLockFragment.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/NumBelongtoActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/SMSBackupActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/SMSReducitionActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/adapter/AppLockAdapter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/db/AppLockOpenHelper.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/db/dao/AppLockDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/db/dao/NumBelongtoDao.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/entity/AppInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/entity/SmsInfo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/service/AppLockService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/utils/AppInfoParser.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/utils/Crypto.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/utils/DensityUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/utils/SmsBackUpUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/utils/SmsReducitionUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/utils/UIUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/widget/AdvancedToolsView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/widget/MyCircleProgress.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter10/SettingsActivity.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter10/utils/SystemInfoUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter10/widget/SettingView.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/android/internal/telephony/ITelephony.aidl" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdvancedToolsActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/AdvancedToolsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="703" />
+    <option name="y" value="53" />
+    <option name="width" value="1092" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="手机安全卫士" type="1abcf292:AndroidViewProjectNode" />
+              <item name="手机安全卫士" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="手机安全卫士" type="1abcf292:AndroidViewProjectNode" />
+              <item name="手机安全卫士" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="手机安全卫士" type="b2602c69:ProjectViewProjectNode" />
+              <item name="手机安全卫士" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="手机安全卫士" type="b2602c69:ProjectViewProjectNode" />
+              <item name="手机安全卫士" type="462c0819:PsiDirectoryNode" />
+              <item name="gen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="手机安全卫士" type="b2602c69:ProjectViewProjectNode" />
+              <item name="手机安全卫士" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="手机安全卫士" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="手机安全卫士" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Android API 28 Platform &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4a25531-2754-411b-99ba-4a84572d5ab4" name="Default" comment="" />
+      <created>1539507425870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539507425870</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19065522" sideWeight="0.5067568" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.5021482" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295583" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19065522" sideWeight="0.49324325" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32842582" sideWeight="0.49785176" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/AdvancedToolsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/AdvancedToolsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cn/itcast/mobliesafe/chapter09/AdvancedToolsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="30" column="62" lean-forward="false" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android API 27 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>手机安全卫士</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="cn.itcast.mobliesafe"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="16" />
+    <!-- 配置测试的指令集，配置测试那个应用程序 -->
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:targetPackage="cn.itcast.mobliesafe" >
+    </instrumentation>
+
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_CALL_LOG" />
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.PROCESS_OUTGOING_CALLS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE" />
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE" />
+
+    <application
+        android:name="cn.itcast.mobliesafe.App"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="cn.itcast.mobliesafe.HomeActivity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity android:name="cn.itcast.mobliesafe.chapter01.SplashActivity" 
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 手机防盗 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter02.LostFindActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter02.SetUp1Activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter02.SetUp2Activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter02.SetUp3Activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter02.SetUp4Activity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter02.ContactSelectActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 通讯卫士 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter03.SecurityPhoneActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter03.ContactSelectActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter03.AddBlackNumberActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 软件管家 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter04.AppManagerActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 高级工具 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter09.AdvancedToolsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter09.AppLockActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter09.NumBelongtoActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter09.SMSBackupActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter09.SMSReducitionActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter09.EnterPswActivity"
+            android:launchMode="singleInstance"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 设置中心 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter10.SettingsActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 病毒查杀 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter05.VirusScanActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter05.VirusScanSpeedActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 进程管理 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter07.ProcessManagerActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter07.ProcessManagerSettingActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 缓存清理 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter06.CacheClearListActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter06.CleanCacheActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- 流量监控 -->
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter08.TrafficMonitoringActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="cn.itcast.mobliesafe.chapter08.OperatorSetActivity"
+            android:screenOrientation="portrait" >
+        </activity>
+        <!-- Reciver -->
+        <receiver android:name="cn.itcast.mobliesafe.chapter02.receiver.SmsLostFindReciver" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="cn.itcast.mobliesafe.chapter02.receiver.BootCompleteReciever" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        <!-- 设备超级管理员广播接收者 -->
+        <receiver
+            android:name="cn.itcast.mobliesafe.chapter02.receiver.MyDeviceAdminReciever"
+            android:description="@string/sample_device_admin_description"
+            android:label="@string/sample_device_admin"
+            android:permission="android.permission.BIND_DEVICE_ADMIN" >
+            <meta-data
+                android:name="android.app.device_admin"
+                android:resource="@xml/device_admin_sample" />
+
+            <intent-filter>
+                <action android:name="android.app.action.DEVICE_ADMIN_ENABLED" />
+            </intent-filter>
+        </receiver>
+        <!-- 拦截黑名单信息 -->
+        <receiver android:name="cn.itcast.mobliesafe.chapter03.reciever.InterceptSmsReciever" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.provider.Telephony.SMS_RECEIVED" />
+            </intent-filter>
+        </receiver>
+        <!-- 拦截黑名单电话 -->
+        <receiver android:name="cn.itcast.mobliesafe.chapter03.reciever.InterceptCallReciever" >
+            <intent-filter android:priority="2147483647" >
+                <action android:name="android.intent.action.PHONE_STATE" />
+                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />
+            </intent-filter>
+        </receiver>
+             
+        <!-- Service -->
+        <service
+            android:name="cn.itcast.mobliesafe.chapter02.service.GPSLocationService"
+            android:persistent="true" >
+        </service>
+        <!-- 程序锁 -->
+        <service
+            android:name="cn.itcast.mobliesafe.chapter09.service.AppLockService"
+            android:persistent="true" >
+        </service>
+        <!-- 锁屏自动清理进程 -->
+        <service
+            android:name="cn.itcast.mobliesafe.chapter07.service.AutoKillProcessService"
+            android:persistent="true" >
+        </service>
+        <!-- 监控流量的服务 -->
+        <service
+            android:name="cn.itcast.mobliesafe.chapter08.service.TrafficMonitoringService"
+            android:persistent="true">
+       </service>
+    </application>
+
+</manifest>
